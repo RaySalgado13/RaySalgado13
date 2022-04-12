@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RaySalgado13/RaySalgado13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello_There!
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+- 👨‍💻 Software engineering student
+- 🔭 I’m currently working on many projects using Django + React
+- 🌱 I’m currently learning AWS cloud computing and DevOps
+- 💻 JavaScript and Python developer
