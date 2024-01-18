@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👨‍💻 Software engineering student
+- 👨‍💻 Software engineering
 - 🔭 I’m currently working on many projects using Django + React
-- 🌱 I’m currently learning AWS cloud computing and DevOps
+- 🌱 I’m currently implementing DevOps technologies and designing architectures using AWS infrastructure
 - 💻 JavaScript and Python developer
